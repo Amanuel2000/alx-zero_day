@@ -1,3 +1,12 @@
+# ignore ALL ~emacs files
 
-$ git status
-#exclude everythig
+~emacs
+~vi
+
+
+
+# ignore ALL files in ANY directory named temp
+
+temp/
+
+
