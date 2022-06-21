@@ -1,2 +1,7 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "ALX School is so cool!"
+=======
+#This line is here to show how merging works
+echo "ALX School"
+>>>>>>> update_script
